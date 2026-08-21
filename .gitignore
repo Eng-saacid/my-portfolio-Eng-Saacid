@@ -1,0 +1,28 @@
+# OS files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+
+.vscode/
+.idea/
+
+# Temporary files
+
+*.tmp
+*.temp
+*.log
+
+# Backup files
+
+*.bak
+*~
+
+# Node.js dependencies (if added later)
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
