@@ -38,7 +38,7 @@ No installation or dependencies are required.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/Eng-saacid/my-portfolio-Eng-Saacid.git
 ```
 
 2. Open the project folder.
